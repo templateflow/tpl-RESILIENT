@@ -17,6 +17,7 @@
     "License": "CC-BY-4.0 International",
     "Name": "Age-specific adult rat brain MRI templates and tissue probability maps",
     "ReferencesAndLinks": ["https://osf.io/nwy9e/"],
+    "Species": "Rattus norvegicus",
     "TemplateFlowVersion": "1.0.0",
     "zooms": [0.19, 0.19, 0.19],
     "shape": [160, 160, 128],
