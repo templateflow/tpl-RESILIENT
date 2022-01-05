@@ -1,0 +1,2 @@
+034e4660-e89e-4207-8711-9dd47493dfcb autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-RESILIENT/ host=s3.amazonaws.com name=public-s3 port=80 public=yes storageclass=STANDARD type=S3 versioning=yes timestamp=1636834502.91891s
+4fcee767-17b0-45a9-8925-d3e9b8b27876 autoenable=true location=https://gin.g-node.org/templateflow/tpl-RESILIENT name=gin type=git timestamp=1636829419.765485s
